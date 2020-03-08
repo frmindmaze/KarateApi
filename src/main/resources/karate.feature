@@ -1,4 +1,4 @@
-Feature:Test Karate Api
+Feature:Test Karate Api1
 
   @Test
     Scenario: Testing valid GET endpoint
